@@ -1,3 +1,3 @@
 # UIPG
 
-Launchpad Page
+Launchpad Page Template
